@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "luismetzger.rocks",
+  "homepage": "https://luismetzger.rocks",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.4.0",
