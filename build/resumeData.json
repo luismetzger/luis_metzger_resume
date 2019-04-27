@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Luis Metzger",
+    "occupation":"Software Engineer",
+    "description":"Team player software engineer with a can-do attitude, phenomenal time management skills, multi-level experience and a strong user focus.",
+    "bio":"4+ years of experience working in various technology companies. Have developed several web apps, including enterprise level B2B, health/fitness management. customer support and management software.",
+    "contactmessage":"Would love to talk to you about any great opportunities:",
+    "email": "luismetzger@me.com",
+    "phone": "303-591-3076",
+    "address":{
+      "street":"2667 E 110th Ct.",
+      "city":"Denver",
+      "state":"CO",
+      "zip": "80233"
+    },
+    "website": "https://luismetzger.rocks",
+    "resumedownload":"https://s3-us-west-2.amazonaws.com/elevation-media-storage/luis-metzger-resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/luis.metzger",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/luismetzger/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/luismetzger",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "username":"luis.gaston.metzger",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are just of few of my favorite skills and level of expertise:",
+    "education":[
+      {
+        "school":"General Assembly",
+        "degree":"Immersive Web Development Bootcamp, General Assembly",
+        "graduated":"May 2016",
+        "description":"Immersive study of full stack web development to master frontend dynamic design, back-end data management, and combine the two to create a seamless end user experience. applications."
+      }
+    ],
+    "work":[
+      {
+        "company":"GoSpotCheck",
+        "title":"Software Engineer",
+        "years":"January 2019 - April 2019",
+        "description":"This position concentrated in professional services offered to high-end black diamond customers such as: Panera, Beam, SGWS, Danone, etc.\n Duties included the following: Building out custom functionality in Ruby/Rails based applications that are scaled for enterprise. Custom SQL reporting using: Postgres, Snowflake, and Looker. Work closely with QA teams in various environments."
+      },
+      {
+        "company":"Elevation Corporate Health",
+        "title":"Director of Technology & Engineering",
+        "years":"November 2015 - January 2019",
+        "description":"This position directed a small technology department for the company to support our onsite health/fitness services and products. Help grop the platform from 600 to 20k+ users in less than 4 years."
+      },
+      {
+        "company":"Myhub App",
+        "title":"Front-end Web Developer",
+        "years":"March 2014 - June 2016",
+        "description":"Worked as a front-end developer for a small startup in Denver."
+      },
+      {
+        "company":"Cordant Health Solution",
+        "title":"Web Developer",
+        "years":"June 2014 - March 2015",
+        "description":"Marketing Department: Head of web development and digital presence for Sterling Healthcare Services and its divisions."
+      },
+      {
+        "company":"JEMSU",
+        "title":"SEO & PPC Digital Marketer",
+        "years":"December 2012 - May 2014",
+        "description":"As part of the operations team, I manage all aspects of the SEO strategy and implementation of that strategy to each one of our client’s websites."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby",
+        "level":"80%"
+      },
+      {
+        "name":"Rails",
+        "level":"55%"
+      },
+      {
+        "name":"SQL, MySQL, Postgres, Snowflake, Looker",
+        "level":"80%"
+      },
+      {
+        "name":"HTML/CSS/JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"REST API's",
+        "level":"70%"
+      },
+      {
+        "name":"AWS - S3, EC2, EB, RDS",
+        "level":"50%"
+      },
+      {
+        "name":"Heroku",
+        "level":"60%"
+      },
+      {
+        "name":"Rspec, CircleCI, TDD",
+        "level":"75%"
+      },
+      {
+        "name":"JIRA, ASANA, Agile, SCRUM",
+        "level":"90%"
+      },
+      {
+        "name":"Git, Github",
+        "level":"95%"
+      },
+      {
+        "name":"Sidekiq, Redis",
+        "level":"50%"
+      },
+      {
+        "name":"CLI's",
+        "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
